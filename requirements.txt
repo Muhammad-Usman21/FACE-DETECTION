@@ -1,0 +1,6 @@
+deepface
+numpy
+Pillow
+PySimpleGUI
+tensorflow
+tf-keras
